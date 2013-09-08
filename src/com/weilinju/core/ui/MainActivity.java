@@ -1,4 +1,8 @@
-package com.weilinju;
+package com.weilinju.core.ui;
+
+import com.weilinju.R;
+import com.weilinju.R.layout;
+import com.weilinju.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
